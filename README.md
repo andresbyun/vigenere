@@ -1,2 +1,2 @@
 # vigenere
-Basic Vigenere encryption/decryption
+Basic Vigenere encryption/decryption program.
